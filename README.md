@@ -15,3 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Eoeoeppeoe/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Aimbo/refs/heads/main/README.md"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/REVIS/refs/heads/main/README.md"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Hitbox/refs/heads/main/README.md"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/SPEEDMINICITY/refs/heads/main/README.md"))()
