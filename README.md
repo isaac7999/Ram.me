@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/FLYAMONGIS/
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/AUTO-KICK/refs/heads/main/README.md"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/D/refs/heads/main/README.md"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Hitbox/refs/heads/main/README.md"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/NTE/refs/heads/main/README.md"))()
 
@@ -15,7 +15,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Eoeoeppeoe/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Aimbo/refs/heads/main/README.md"))()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/REVIS/refs/heads/main/README.md"))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/Hitbox/refs/heads/main/README.md"))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/isaac7999/SPEEDMINICITY/refs/heads/main/README.md"))()
